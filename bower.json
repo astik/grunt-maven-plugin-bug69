@@ -1,0 +1,11 @@
+{
+  "name": "grunt-maven-plugin",
+  "dependencies": {
+    "angular": "1.3.13"
+  },
+  "devDependencies": {
+  },
+  "resolutions": {
+    "angular": "1.3.13"
+  }
+}
