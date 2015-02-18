@@ -82,7 +82,8 @@ mvn package
 
 Here is the results :
 
-```$ mvn package
+```
+$ mvn package
 [INFO] Scanning for projects...
 [INFO] 
 [INFO] Using the builder org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder with a thread count of 1
