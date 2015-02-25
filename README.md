@@ -4,6 +4,10 @@ This project as no other goal than to demonstrate the problem for grunt-maven-pl
 
 * https://github.com/allegro/grunt-maven-plugin/issues/69
 
+As @adamdubiel said in this issue, my needs for grunt+maven may not be in accordance with GMP philosophy.
+I make a faulty configuration / file structure that leads to a malfunction.
+By respecting GMP way of working, everything should be fine.
+
 ## What is the problem
 
 While packaging, package.json is searched into basedir while bower.json is searched into target-grunt.
